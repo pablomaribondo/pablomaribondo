@@ -26,6 +26,6 @@ const aboutMe = {
 
 
 <a href="https://github.com/pablomaribondo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablomaribondo&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomaribondo&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablomaribondo&theme=dracula&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomaribondo&theme=dracula&layout=compact" />
 </a>
