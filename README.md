@@ -6,7 +6,7 @@
 
 ```javascript
 const aboutMe = {
-    code: ["Javascript", "Typescript", "PHP"],
+    code: ["Javascript", "Typescript", "PHP", "Python"],
     askMeAbout: ["Music", "Web Development", "App Development", "DevOps", "Tests"],
     technologies: {
         mobileApp: ["React Native"],
