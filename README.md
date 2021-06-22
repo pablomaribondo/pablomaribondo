@@ -2,8 +2,6 @@
 <p><em>Software Engineer at Parth</em></p>
 <p><em>Computer Science Bachelor Student at <a href="https://www1.unicap.br/">Universidade Católica de Pernambuco</a></em></p>
 
-&nbsp;&nbsp;
-
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablomaribondo&theme=dracula)
 
 <a href="https://github.com/pablomaribondo">
