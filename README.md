@@ -6,7 +6,6 @@
 <br />
 
 ## 👋 &nbsp;About me
-
 <img width="100%" src=".github/divider.png">
 
 - Software Engineer
@@ -18,7 +17,6 @@
 <br />
 
 ## 🛠 &nbsp;Tech Stack
-
 <img width="100%" src=".github/divider.png">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -41,7 +39,6 @@
 <br />
 
 ## 🚀 &nbsp;To Learn in 2022
-
 <img width="100%" src=".github/divider.png">
 
 - Ember.js
@@ -57,7 +54,6 @@
 <br />
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 <img width="100%" src=".github/divider.png">
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=pablomaribondo)](#)
@@ -73,7 +69,6 @@
 <br />
 
 ## 📱 &nbsp;Social Links
-
 <img width="100%" src=".github/divider.png">
 
 [![Github](https://img.shields.io/github/followers/pablomaribondo?label=Follow&style=social)](https://github.com/pablomaribondo)
