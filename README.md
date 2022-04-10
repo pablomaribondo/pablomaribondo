@@ -2,6 +2,8 @@
   <img width="100%" src=".github/greetings.gif">
 </div>
 
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=pablomaribondo)](#)
+
 <br />
 <br />
 
@@ -59,8 +61,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <img width="100%" src=".github/divider.png">
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=pablomaribondo)](#)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pablomaribondo&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pablomaribondo&theme=algolia)](https://git.io/streak-stats)
