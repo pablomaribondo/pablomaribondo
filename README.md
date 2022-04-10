@@ -5,7 +5,8 @@
 <br />
 <br />
 
-<h2>👋 &nbsp;About me</h2>
+## 👋 &nbsp;About me
+
 <img width="100%" src=".github/divider.png">
 
 - Software Engineer
