@@ -14,7 +14,7 @@
 - Software Engineer
 - I’m currently working at [C.E.S.A.R](https://www.cesar.org.br/).
 - Computer Science Bachelor Student at [Universidade Católica de Pernambuco](https://portal.unicap.br/).
-- Law Bachelor at [Universidade Católica de Pernambuco](https://portal.unicap.br/).
+- Bachelor of Law at [Universidade Católica de Pernambuco](https://portal.unicap.br/).
 
 <br />
 <br />
