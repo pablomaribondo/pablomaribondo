@@ -42,6 +42,7 @@
 <br />
 <br />
 
+<!--
 ## 🚀 &nbsp;To Learn in 2022
 
 <img width="100%" src=".github/divider.png">
@@ -57,7 +58,7 @@
 
 <br />
 <br />
-
+-->
 ## ⚙️ &nbsp;GitHub Analytics
 
 <img width="100%" src=".github/divider.png">
