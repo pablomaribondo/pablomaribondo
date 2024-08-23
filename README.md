@@ -1,3 +1,4 @@
+<!--
 <div>
   <img width="100%" src=".github/greetings.gif">
 </div>
@@ -42,7 +43,6 @@
 <br />
 <br />
 
-<!--
 ## 🚀 &nbsp;To Learn in 2022
 
 <img width="100%" src=".github/divider.png">
@@ -58,7 +58,7 @@
 
 <br />
 <br />
--->
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <img width="100%" src=".github/divider.png">
@@ -81,3 +81,13 @@
 <a href="https://linkedin.com/in/pablomaribondo" target="_blank" style="margin-left: 10px">
 <img align="center" src="https://img.shields.io/badge/-pablomaribondo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+-->
+
+## 👋 Hi, my name is Pablo!
+
+[<img align="left" height="94px" width="94px" alt="cesar logo" src=".github/cesar_logo.jpeg"/>](https://www.cesar.org.br/)
+
+**Software Engineer** \
+[**CESAR**](https://www.cesar.org.br/) • Full-time \
+Languages & Technologies: `Python`, `Ruby`, `Rails`, `JavaScript`, `Typescript`, `React`, `Ember.js`\
+<br/>
