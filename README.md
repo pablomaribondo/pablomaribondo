@@ -83,7 +83,9 @@
 </a>
 -->
 
-## 👋 Hi, my name is Pablo!
+## 👋 Hi, my name is Pablo! [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pablomaribondo)](https://linkedin.com/in/pablomaribondo) [![GitHub](https://img.shields.io/github/followers/pablomaribondo?label=follow&style=social)](https://github.com/pablomaribondo)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 [<img align="left" height="94px" width="94px" alt="cesar logo" src=".github/cesar_logo.jpeg"/>](https://www.cesar.org.br/)
 
@@ -91,3 +93,6 @@
 [**CESAR**](https://www.cesar.org.br/) • Full-time \
 Languages & Technologies: `Python`, `Ruby`, `Rails`, `JavaScript`, `Typescript`, `React`, `Ember.js`\
 <br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pablomaribondo&theme=calm-pink)](https://git.io/streak-stats)
+
