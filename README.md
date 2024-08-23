@@ -95,4 +95,5 @@ Languages & Technologies: `Python`, `Ruby`, `Rails`, `JavaScript`, `Typescript`,
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pablomaribondo&card_width=400&theme=calm-pink)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomaribondo&theme=calm_pink&langs_count=10&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
