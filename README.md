@@ -94,5 +94,5 @@
 Languages & Technologies: `Python`, `Ruby`, `Rails`, `JavaScript`, `Typescript`, `React`, `Ember.js`\
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pablomaribondo&theme=calm-pink)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pablomaribondo&card_width=400&theme=calm-pink)](https://git.io/streak-stats)
 
